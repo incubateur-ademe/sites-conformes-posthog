@@ -19,7 +19,7 @@ dans les scripts personnalisés - il ferait doublon.
 ## Installation
 
 ```bash
-uv add --editable ../../packages/sites-conformes-posthog
+uv add sites-conformes-posthog
 ```
 
 Ce package surcharge `sites_conformes_core/base.html` (fourni par
